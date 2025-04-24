@@ -1,0 +1,17 @@
+# .gitignore
+# Environnement virtuel
+.nlp_env/
+
+# Fichiers générés
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.log
+*.tmp
+*.bak
+
+# Jupyter notebooks checkpoints
+notebook/.ipynb_checkpoints/
+
+# Fichiers de sortie
+data/output/
