@@ -14,4 +14,4 @@ __pycache__/
 notebook/.ipynb_checkpoints/
 
 # Fichiers de sortie
-data/output/
+data/output/.DS_Store
